@@ -1,0 +1,41 @@
+{\rtf1\ansi\deff1\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq0\fcharset0 Times New Roman;}{\f2\froman\fprq0\fcharset0 Times New Roman;}{\f3\fswiss\fprq2\fcharset0 Arial;}{\f4\fnil\fprq0\fcharset2 Wingdings;}}
+{\colortbl;\red0\green0\blue0;\red128\green128\blue128;}
+{\stylesheet{\s1\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang1033\loch\fs24\lang1033\snext1 Normal;}
+{\s2\sb240\sa120\keepn\rtlch\af3\afs28\lang255\ltrch\dbch\af3\langfe1033\hich\f3\fs28\lang1033\loch\f3\fs28\lang1033\sbasedon1\snext3 Heading;}
+{\s3\sa120\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang1033\loch\fs24\lang1033\sbasedon1\snext3 Body Text;}
+{\s4\sa120\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang1033\loch\fs24\lang1033\sbasedon3\snext4 List;}
+{\s5\sb120\sa120\rtlch\afs24\lang255\ai\ltrch\dbch\langfe1033\hich\fs24\lang1033\i\loch\fs24\lang1033\i\sbasedon1\snext5 caption;}
+{\s6\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang1033\loch\fs24\lang1033\sbasedon1\snext6 Index;}
+{\s7\sb120\sa120\rtlch\afs24\lang255\ai\ltrch\dbch\langfe1033\hich\fs24\lang1033\i\loch\fs24\lang1033\i\sbasedon1\snext7 caption;}
+}
+{\info{\creatim\yr2007\mo1\dy20\hr23\min53}{\revtim\yr1601\mo1\dy1\hr0\min0}{\printim\yr1601\mo1\dy1\hr0\min0}{\comment StarWriter}{\vern6800}}\deftab709
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\pgdscnxt0 Standard;}}
+{\*\pgdscno0}\paperh15840\paperw12240\margl1800\margr1800\margt1440\margb1440\sectd\sbknone\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pard\plain \ltrpar\s1\ul\ulc0\qc\rtlch\afs28\lang255\ab\ltrch\dbch\langfe1033\hich\fs28\lang255\b\loch\fs28\lang255\b {\rtlch \ltrch\loch\f1\fs28\lang255\i0\b SchooGL Math}
+\par \pard\plain \ltrpar\s1\ul\ulc0\ql\rtlch\afs28\lang255\ab\ltrch\dbch\langfe1033\hich\fs28\lang255\b\loch\fs28\lang255\b {\rtlch \ltrch\loch\f1\fs28\lang255\i0\b Purpose}
+\par \pard\plain \ltrpar\s1\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 {\rtlch \ltrch\loch\f1\fs24\lang255\i0\b0 This program's main goal is to help with teaching math to 1{{\*\updnprop10000}\up6 st} and 2{{\*\updnprop10000}\up6 nd} graders. The program will place the student in an entertaining environment so that the student can hopefully tie in a fun environment with learning. Making the learning process all that 
+much easier.  }
+\par \pard\plain \ltrpar\s1\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 
+\par \pard\plain \ltrpar\s1\ul\ulc0\ql\rtlch\afs28\lang255\ab\ltrch\dbch\langfe1033\hich\fs28\lang255\b\loch\fs28\lang255\b {\rtlch \ltrch\loch\f1\fs28\lang255\i0\b Environment}
+\par \pard\plain \ltrpar\s1\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 {\rtlch \ltrch\loch\f1\fs24\lang255\i0\b0 The student will be interacting with the main application. This application will consist of an adventure type game. The student will be fighting \'93monsters\'94 to help gain levels and items to show achievement in math. The student will \'93fight\'94 by answering var
+ying difficulty of problems.  The problems will be given in several ways:}
+\par \pard\plain \ltrpar\s1\tx720\li720\ri0\lin720\rin0\fi-360\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang1033\loch\fs24\lang1033{\rtlch \ltrch\loch\af\f4\fs18\lang255\i0\b0{\fs18\af\f4{\lang255 l}}}{\fs18\af\f4{\rtlch \ltrch\loch\af\f4\fs18\lang1033\i0\b0{\b0\i0\lang1033 \tab }}}{\rtlch \ltrch\loch\f1\fs24\lang1033\i0\b0{\lang255 What +/- this equals ?}}
+\par \pard\plain \ltrpar\s1\tx720\li720\ri0\lin720\rin0\fi-360\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang1033\loch\fs24\lang1033{\rtlch \ltrch\loch\af\f4\fs18\lang255\i0\b0{\fs18\af\f4{\lang255 l}}}{\fs18\af\f4{\rtlch \ltrch\loch\af\f4\fs18\lang1033\i0\b0{\b0\i0\lang1033 \tab }}}{\rtlch \ltrch\loch\f1\fs24\lang1033\i0\b0{\lang255 Which number is in this digit slot?}}
+\par \pard\plain \ltrpar\s1\tx720\li720\ri0\lin720\rin0\fi-360\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang1033\loch\fs24\lang1033{\rtlch \ltrch\loch\af\f4\fs18\lang255\i0\b0{\fs18\af\f4{\lang255 l}}}{\fs18\af\f4{\rtlch \ltrch\loch\af\f4\fs18\lang1033\i0\b0{\b0\i0\lang1033 \tab }}}{\rtlch \ltrch\loch\f1\fs24\lang1033\i0\b0{\lang255 Multiple +/- together}}
+\par \pard\plain \ltrpar\s1\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 {\rtlch \ltrch\loch\f1\fs24\lang255\i0\b0 Also, the student will be able to create a nickname for themselves so that they can keep their identity private among the other students. The reason for this is for privacy reasons, and that there will be the ability for the students to fight each other to
+ help compare their math skills.}
+\par \pard\plain \ltrpar\s1\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 
+\par \pard\plain \ltrpar\s1\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 
+\par \pard\plain \ltrpar\s1\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 {\rtlch \ltrch\loch\f1\fs24\lang255\i0\b0 The teacher and the parent of  the student will both interact with a web page. They will both be able to look and up analyze the student's progress and  any areas of need. The teacher will also be able to administer certain features of the game, like the p
+ossible difficulties in the game, the questions in the game, and other areas.}
+\par \pard\plain \ltrpar\s1\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 
+\par \pard\plain \ltrpar\s1\ul\ulc0\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs28\lang255\b\loch\fs28\lang255\b {\rtlch \ltrch\loch\f1\fs28\lang255\i0\b User Profiles}
+\par \pard\plain \ltrpar\s1\ul\ulc0\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 {\rtlch \ltrch\loch\f1\fs24\lang255\i0\b0 Student: {\ulnone\ulc0 A person that will be attending 1{{\*\updnprop10000}\up10 st} or 2{{\*\updnprop10000}\up10 nd} grade, and is currently being taught math by a teacher. They will have a familiarty with computers, and understand how to use basic mouse movents and typing their names into boxes. They will be wanting an
+ entertaining enviorment to learn in.}}
+\par \pard\plain \ltrpar\s1\ul\ulc0\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 
+\par \pard\plain \ltrpar\s1\ul\ulc0\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 {\rtlch \ltrch\loch\f1\fs24\lang255\i0\b0 Teacher:\~{\ulnone\ulc0 A person that is teaching these students. They will have a familiarty with computers and understand their function. Can easily log into a given web page and follow the insturtions, and familiarize themselfs with it. }}
+\par \pard\plain \ltrpar\s1\ul\ulc0\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 
+\par \pard\plain \ltrpar\s1\ul\ulc0\ql\rtlch\afs24\lang255\ltrch\dbch\langfe1033\hich\fs24\lang255\loch\fs24\lang255 {\rtlch \ltrch\loch\f1\fs24\lang255\i0\b0 Parent: {\ulnone\ulc0  A person who is caring for the child. They will have basic computer skills and be able to log into a web page and follow insturctions on that web page.}}
+\par }
